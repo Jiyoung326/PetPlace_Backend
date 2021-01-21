@@ -11,8 +11,6 @@
 <img src="https://user-images.githubusercontent.com/37690467/104352425-02550800-554a-11eb-90d1-22b05cf38b2b.jpg" width="40%" ></img></a>
 
 <hr/>
-<a href ="https://github.com/Jiyoung326/PetPlace_Frontend.git">Android를 이용한 프론트엔드 깃허브로 이동하기</a>
-<hr/>
 <div float:left>
 <p>▼ 펫플레이스 프로젝트 내용을 담은 ppt 입니다 ▼</p>
 <img src="https://user-images.githubusercontent.com/37690467/105202290-2a192100-5b85-11eb-8a66-44693ab7c66f.jpg"></img>
@@ -36,4 +34,6 @@
 <img src="https://user-images.githubusercontent.com/37690467/105202288-29808a80-5b85-11eb-8a16-208745588509.jpg"></img>
 <img src="https://user-images.githubusercontent.com/37690467/105202289-29808a80-5b85-11eb-8119-1243f61dec1a.jpg"></img>
 </div>
+<hr/>
+<a href ="https://github.com/Jiyoung326/PetPlace_Frontend.git">Android를 이용한 프론트엔드 깃허브로 이동하기</a>
 
