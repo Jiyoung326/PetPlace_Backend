@@ -1,4 +1,4 @@
-#### Android + Django + MySQL + AzureCloud를 이용한 프로젝트입니다.
+#### Android Studio+ Django + MySQL + AzureCloud를 이용한 프로젝트입니다.
 
 <br>
 <hr/>
@@ -35,5 +35,5 @@
 <img src="https://user-images.githubusercontent.com/37690467/105202289-29808a80-5b85-11eb-8119-1243f61dec1a.jpg"></img>
 </div>
 <hr/>
-<a href ="https://github.com/Jiyoung326/PetPlace_Frontend.git">Android를 이용한 프론트엔드 깃허브로 이동하기</a>
+<a href ="https://github.com/Jiyoung326/PetPlace_Frontend.git">Android Studio를 이용한 프론트엔드 깃허브로 이동하기</a>
 
